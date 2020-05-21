@@ -1,5 +1,5 @@
 {
-  "name": "object-filter",
+  "name": "@szymon.dukla/object-filter",
   "version": "1.0.0",
   "description": "Simple Object class extension allowing you to filter an object by array of keys",
   "main": "index.js",
