@@ -1,0 +1,19 @@
+{
+  "name": "object-filter",
+  "version": "1.0.0",
+  "description": "Simple Object class extension allowing you to filter an object by array of keys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SzymonDukla/object-filter-js.git"
+  },
+  "author": "Szymon Dukla <hello@szymondukla.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SzymonDukla/object-filter-js/issues"
+  },
+  "homepage": "https://github.com/SzymonDukla/object-filter-js#readme"
+}
